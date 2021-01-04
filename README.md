@@ -1,6 +1,8 @@
 # auto-discord
 *spams adding members into the group*
 
+this will work however it will get rate limited
+
 # choosing tokens
 simple. just type in a token then enter to make a new line, so that you can enter in an another token
 
