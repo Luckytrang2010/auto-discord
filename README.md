@@ -1,5 +1,5 @@
 # auto-discord
-*spams adding members into the group
+*spams adding members into the group*
 
 # choosing tokens
 simple. just type in a token then enter to make a new line, so that you can enter in an another token
